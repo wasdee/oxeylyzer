@@ -1,0 +1,5 @@
+[tools]
+rust = "nightly"
+
+[tasks.run]
+run = 'cargo run --release'
